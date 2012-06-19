@@ -1,31 +1,13 @@
-<!DOCTYPE HTML>
-<html lang="ja">
+<!DOCTYPE html>
+<html>
 <head>
-<meta charset="UTF-8">
-<title>daixy</title>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="キーワード1,キーワード2,キーワード3,キーワード4,キーワード5">
+	<meta name="description" content="">
+	<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">-->
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <title>ソーシャル ネットワーク daixi</title>
 <style type="text/css">
-html, body, div, span, 
-h1, h2, h3, h4, h5, h6, p, pre,
-a, del, img, dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, tbody, thead, tr, th, td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-}
-body {
-  line-height: 1;
-}
-#container {
-  width: 100%;
-  height: 100%;
-  margin-top: 60px;
-  text-align: center;
-}
 #canvas {
   position: fixed;
   top:0;
@@ -34,10 +16,36 @@ body {
 }
 </style>
 </head>
+
 <body>
-<div id="container">
-  <img id="logo" src="img/logo.png" alt="Logo" />
-</div>
+<!-- [[ ヘッダー ]] -->
+<header class="global_header" id="global_header">
+	<h1>daixi</h1>
+</header>
+<!-- /[[ ヘッダー ]] -->
+
+<!-- [[ メインメニュー ]] -->
+<nav class="global_menu" id="global_menu">
+	<ul>
+		<li><a href="TODO">トップ</a></li>
+		<li><a href="TODO">プロフィール</a></li>
+		<li><a href="TODO">日記</a></li>
+		<li><a href="TODO">コミュニティ</a></li>
+		<li><a href="TODO">設定</a></li>
+	</ul>
+</nav>
+<!-- /[[ メインメニュー ]] -->
+	
+<!--[[メインコンテンツ]]-->
+<section class="main_content" id="main_content">
+<img src="img/daixy_profile.png" />
+
+</section>
+<!-- [[ フッター ]] -->
+<footer class="global_footer" id="global_footer">
+    <p><small>&copy; tango 2012.</small></p>
+</footer>
+<!-- /[[ フッター ]] -->
 <canvas id="canvas" width="1600" height="1024"></canvas>
 <script> 
 (function(){
@@ -109,5 +117,8 @@ body {
     }
 })();
 </script>
+
 </body>
 </html>
+
+
