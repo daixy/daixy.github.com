@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@import "reset.css";
+
+/* //////////////////////////////////////////////////
+    ヘッダー
+////////////////////////////////////////////////// */
+.global_header {
+	background: url(../img/logo.png) no-repeat scroll top left;
+	height: 60px;
+}
+
+#global_header h1 {
+	text-indent: -9999px;
+}
