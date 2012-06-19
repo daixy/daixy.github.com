@@ -7,8 +7,33 @@
 .global_header {
 	background: url(../img/logo.png) no-repeat scroll top left;
 	height: 60px;
+	margin: 10px;
 }
 
 #global_header h1 {
 	text-indent: -9999px;
+}
+
+/* //////////////////////////////////////////////////
+    メインメニュー
+////////////////////////////////////////////////// */
+#global_menu {
+	line-height: 2em;
+	border-top: 1px solid #e56f6f;
+	border-bottom: 1px solid #e56f6f;
+}
+
+#global_menu ul li {
+    width: 20%;
+	float: left;
+	text-align: center;
+	background: -webkit-gradient( linear, left top, left bottom, from(#ff9898), to(#ff7373));
+	border-right: 1px solid #ffcfcf;
+	border-left: 1px solid #e56f6f;
+	-webkit-box-sizing: border-box;
+}
+
+#global_menu ul li a {
+    color: #ffffff;
+	text-decoration: none;
 }
