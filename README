@@ -1,0 +1,133 @@
+*** PLEASE READ ME ***
+Files that you just created but unused, please place them in the resources/* directory.
+************************
+                                                                                             8MDI=...?DD88888888888888888888888888888NN=      .=888$:.                                                  
+                                                                                               .:$OO88888888888888888888888888888888888N8.+8ND8888888D8+                                                
+                                                                                               :MMDDMM88888888888888888888888888888888888D8888888888888D+                        .IO.      +:.          
+              MM?                 DNNNNNNNNNNNMM                                            .DN888888888888888888888888888888888888888888888888888888888DD8D8DDN$.               ~MM.     MMM7          
+            ZMMMMMMM=                         7M                                          .ZN8888888888888888888888888888888888888888888888888888888888888888888888I             ,MM    =MMM            
+         :MMMMNMD~ZMMM:                       7M                                          MN888888888888888888888888888888888888888888888888888888888888888888888888~            ,MM   7MM=             
+        MMM:  MM+   7MM+                      7M                                         ID88888888888888888888888888888888888888888888888888888888888888888888888888=           ,MM .MMM,              
+       ZMM    MM.    $MM             .                                                  7M88888888888888888888888888888888888888888888888888888888888888888888888888NO           :MM8MMMM=              
+      :MM:   $MM     =MM            ,M8.                                                ND8888888888888888888888888888888888888888888888888888888888888888888888888888.          ~MMMM,MMM              
+      :MM,  IMM,     IMM            ZMM                                                 MD88888888888888888888888888888888888888888888888888888888888888888888888888887          =MM$   MM7             
+       OMM IMM?     ~MMZ            MM~     :$~                                       :MD888888888888888888888888888888888888888888888888888888888888888888888888888888?         ?MM    ~MM$            
+        MMMMM~     ~MM8       7ZDNMMMMMMMN  =MMM                                    ?M88888888888888888888888888888888888888888888888888888888888888888888888888888888D8,        7MM     =MM~           
+          :.     .MMM7        .MMMOMMZ,,MMI   MMM=                                 +N888888888888888888888888888888888888888888888888888NM888888888888888888888888888888DI       $MM      MMM$          
+                   ..             NM8   MMO    NMM                                8N88888888888888888888888888888888888888888888888888888N8888888888888888888888888888888D?      ONZ      .MDZ.         
+                 .               =MM    MMI     M.                               :N8888888888888888888888888888888888888888888888888888888M888888888888888888888888888DNNDN8:                           
+            ..   NM~   .        +MM=   ,MM                                      .M88888888888888888888888888888888888888888888888MN88888888M888888888888888888888888888888MM88~.        .               
+      MMMMMMMM. 7MMMMMMM:      .MMZ    MMM                                      ,M8888888888888888888888888888888888888888888888NNMD8888888D8888888888888888888888888888888N$?D+  MMMMMMMMMZ            
+      MM~?M:NM.~MM~~,:MM      IMMM OMNMMM.                                      .M888888888888888888M888888888888888888888888888M,ON8888888MNN888NN8888888888888888888888888NM    MMMI+=ZMMMM           
+      MM IM.NMDMMM  ~MM,      .:+   ZMMM                                        .N888888888888888888M88888888888888N8888888888DN,,,ND888888N88M888DDD8888DN8888888888888888888I.  MMN     ?MM$          
+      MM OM.NMD$,MMNMM                                                           7D88888888888888888D8888888888888DM888888888N7,,,,,N888888D888DN8888NN888DD888888888888888888M,  MMO     .MM8          
+      MMMMMMMM,  ZMMMM.                 $~                                      .ON8888888888888888M88888888888888DM88888888NO,,,,,,:N88888DD888888888888888NM8888888888888888DM  MM$    .MMM,          
+     .MM.$M.NM=NMM+ IMMM8+.             NMM                                     ND8888888888888888M88888888888DMI:$Z8888888D?,,,,,,,,,DD8888D88888888888888888MD8888888888DM888D  MMMMMMMMMM.           
+     ,MM 8M NMMMD7I?I$8MM+              OMM                                    :N888888888888888MN8888888888DM,,,,N8888888M~,,,,,,,,,,.ND888NI?N8888888888888888888888888888MD88  MMNOOO?,              
+     ,MM NM.MM.~MMNNNNMM       .,=IZDNMMMMMMMMMMM.                            .N8888888888888NMN8888MM8888DM.,,,,=888888NN,,,,,,,,,,,,,,ND888O,,$M888888888888888888888888888MD8  MM?                   
+     ,MM7MMZMM.~MD   ,MM     OMMMMMMMMMMMMMMNNMMMD                            ,N8888888DNMMMND88DNMM88888DZ.,,,,,888888N+,,,,,,,,,,,,,,,,8D88N~,,~N88888888888888888888888888NND  MM7                   
+     ,MMMMMMMM.~MO   ~MM      8Z~.      ,MM                                   IN888888888888888888888888M$,,,,,,+D888DZ,,,,,,,,,,,,,,,,,,,+D888:,,+D88888888888888888888888888DD  MM7                   
+     ,MZ       IMMMMMMMM            NMMMMMM                                   IM88888888888888888888888M.,,,,,,,M88DO.,,,,,,,,,,,,,,,,,,,,,,O8ZO,,,=N8888888888888888888888888D8  MM7                   
+               ZMD.. :MM           =MM  OMM                                  ..D8888888888888888888888D.,,,,,,$DDM+.,,,,,,,,,,,,,,,,,,,,,,,,,,7D,,,,OD8888888888888888888888888M  .                     
+                                   .MMNOMMD                                   .D888888888888888888888M,,,,,,=M$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,O8888888888888888888888888,                        
+           ,MM:      .~             .7MMMM7                                   7M88888888888888888888M:,,,,,,=$MM8?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D88888888888888888888888: O88OZ$$ZOOO8NN          
+           $MM  . +M::MM               =MM                                   +N88D888888888888D8888M,,,,,,,,,,,,8DNMDI,,,,,,,,,,IDMNNMMMMNMD$+,,,,,,,,OD88888D88888888888888MNO .MMMMMMMMMMMMM          
+          ,MMMMMD  ~MM..              NMM$                                 .DN8DM888888888888N8888MZ,,,,,,,,.,:~+=7=,~ON,,,,,,,,=+~.,,,~I?,,,,,,,,,,,,~D8888NM88888888888888NN8=      MM?               
+      .MMMMMMMMMI   ,               ~MMM+                                 ,ND8NM8888888888888M8888M,,,,,,,7NMMMMMMMMMMD$,,,,,,,,,,,,$MMMMMMO,,,,,,,,,,.D8888NM888888888888888MM8D:    MM+               
+       :?=DMN    ....                 .,                                .8M8?:.88888888888888N888N+,,,,,,$M8...... .~DMMN:,,,,,,:OMMM?8MMNMM8,,,,,,,,,,78888N?D88888888888888DDDM+    MM~               
+          MM~   MMMMMMM=                                                       ,N888888888888N888M.,,,,,NMN    .~:.   .IMM77OOOIMMMM  ZMN,.,NMM,,,,,,,,~N88M,,N8888888888888888NM~    MM,               
+         .MM        .:8,        $MM: .MM~                                       8N88888888888DD8ND,,,,,,ZM$   .+8== .~M.?MMMMMMMM,.ZM~,8MM    8M,,,,,,,:N8M?,,DN88888N88888888MZM:    MM,               
+         7MM                     8MM  .MMM:~+,                                  .ZN88888888888N8M?,,,,,,,OM~    :NMM$,  MM$:,,.NM+     .....  MM,,,,,,,,MM,,,,DN88888MND888888N.M:    MM,               
+        .MM$    I                 MM$MMMMMMMMMMM,                                 ZD888888DMN,7NM~,,,,,,,,8M+:       .MMMN,+?,,+MM.          +M8,,,,,,,+N,,,,,DD8888NI~~$N8888N.,     MM,               
+        OMM,   ,MM:            .DMMMMM+.~MM,  8MM.                                +M88888N+.M.,$M,,,,,,,,,,~DMMMD88MMMM+,,.M,,,,OMMMMD8?..IMMMO,,,,,,,,,,,,,,,N88888$~~~~+D888N      .MM~               
+        MMN     8MMMMMND    .NMMMM=MMI   .    NMM.                                ND8888N+,.N.,,M$,,,,,,,,,,,.?$O$~:.,,,,,88,,,,,,.:778MMMNZ:,,,,,,,,,,,,,,,,.N8888M~~~~~~OD888      ,MM~               
+       .DMI      .DMMMM7      NN.  7MM  MMNNNMMM+                                 N88888Z,,.D.,,,,,,,,,,,,,,,,,,,,,,,,,,,,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N888MI~~~~~~=N88$      ,MM~               
+                      .             MM.  $MMMD:.                                  ZN8888+,,.N,,,,,,,,,,,,,,,,,,,,,,,,,,,$N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,=D88D?~88~~~~:N8M                          
+                 :.                 8MN                              .            .Z8888$,,,N:,,,,,,,,,,,,,,,,,,,,,,,,,+$~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,788M+~~7N~~~~~MM.                          
+          MMMMMMMMMM                .MM7                                           ,8N88N,,,M:,,,,,,,,,,,,,,,,,,,,,,,,,M~~:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MNN~~~~?8:~~~7N                            
+           MMZ~,MMI                  $MM                                             ~ODD$,,N~,,,,,,,,,,,,,,,,,,,,,,,,+M~~~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7MI~~~~~=D:~~~N7                            
+              DMM,                    MM~                                              .?M..N,,,,,,,,,,,,,,,,,,,,,,,,,,DN7~~~~~~:,,,,,,,,,,,,,,,,,,,,,,,,,,,=:,~~~~~~D~~~+O.                            
+            .NMN                      .                                                  .M,N:,,,,,,,,,,,,,,,,,,,,,,,,,,,$DD:~~~~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~M:~8D         .$MMMMMMMMMMM        
+           .MM:                                                                           ,DM:,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,:,,,,,,,,,,,,,,,,,,,,,,,:~~~~~+NNM.       .NMMMM$=.    .MMM       
+          ~MMI,~7OO+.                                                                       N8,,,,,,,,,,,,,,,,,,,,,,MM$:,,,,,,,,,,,.~IMI~,,,,,,,,,,,,,,,,,,,,,~~~~~~7D            $~          ?MM,      
+         IMMMMMMMMMMMM                                                                      OD,,,,,,,,,,,,,,,,,,,,,,,~M,.~8D88ZZDNZ:$M:~:,,,,,,,,,,,,,,,,,,,,,~~~~~~88                        MMO       
+        MMMM~       MMO                                                                     :D.,,,,,,,,,,,,,,,,,,,,,,,,.$D$=..~INNZ+,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~NO                    .+MMMN        
+        .+          MMZ                        ?.                                            O:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~D$                  OMMMM$          
+                  +MMM          D,        DM= M:IM                                           .8.,,,,,,,,,,,,,,,,,,,,,,,,,?M8I?$ZDN?:,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~D=                                  
+             .7DMMMM?           MMZ       NM8 MNMN                                            D+,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~:,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~:8,                                  
+               +M8.             MM,       NMI  ..                                             :N.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~7Z                                   
+                               ,MM  .:ZNMMMMMMMM                                               ?$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~:D.                                   
+            .:O$+~.            ~MM  DMMMMMMMNO7?                                                N:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~ID                                    
+         .MMMMMMMMMM.          ?MM  7,    DM7                                                   Z$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~M?                .,+$DMMMMMMN        
+        :MMM,     MMM,         $MM        OMO                                                   :N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~IO           $MMMMMMMMMMMMMMZ=,        
+         =.       NMM          8MM        $MN                                                   .7$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~:N.            :NZ~.    DMM$            
+                 :MMZ          NMN  .MMMMMMMM                                                   . D=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~D7                     NMM              
+               :MMM8           NMM  MM+..,MMMMM~                                                  7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~$=.                    MMM               
+              NMMZ             OMM  OMMMMMMM=ZMMM,                                                .M?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~~~D7                     .MM,               
+             .MM.              7M7    =ZD$:   .                                               .NMMN8N$,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~N.                      ?MM                
+             .MM                                                                              $DIII$?N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~~DM.                      ~MM                
+                                  ?$.                                                         8DIII7?=N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~~=N?N                        MMN               
+             ?MM.                 ?MM,                                                        Z8III8~~IN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~$$~DI                        :MMMN:            
+             IDN,                 =MM    IOOZ                           ..                .:$NN7IIIM:~~=DI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~~D~~~N?                          ZMMM+.          
+                                 ,NMM :MMMMMMM$                         ..               DZIIIIIIII8~~~~,7D+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~NZ~~~~MDDDO=                                      
+                              MMMMMMNDMM+   $MM.                                        .MIIIIIIIIIIM+~~,,,+D:,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~~?D=~~~~~:NIIII7N,                                    
+                               ?. DMMM.     ,MM=                                      .=NMIIIIIIIIIII8?~,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~:ZN=~~~~~~~~:DIIIIIN:                                    
+                                 7MMD       .MM=                                    DM$IIIIIIIIIIIIIIIO8,,,,,,,,,,?OI:,,,,,,,,,,~~~~~~~~~~:~$NI~~~~~~~~~~~~:NN$IIIN.                                    
+                                ?MMM7       .MM=                                .,$NM7IIIIIIIIIIIIIIIIIZI,,,,,,,,,,,::$OI+.,,.~~~~~~~~~+788$~~~~~~~~~~~~~~~~M,MIIID                                     
+                               $MMNM+  ?MMNZ?MM,                             ,M8$IIINN7IIIIIIIIIIIIIIIII7M,,,,,,,,,,,,,,.,=+?ZO88O887=~~~~~~~~~~~~~~~~~~~~~~N=NIIID~                                    
+                              NMM.MM? OMMI8MMMM.                           =DOO$IIIIIIOM7IIIIIIIIIIIIIIIIIDZ,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~~~~~~~~~~~~~:DIIII8D~                                  
+                               M  MMI  MMMNMMMMMO                         DDOO7IIIIIIIIIDNIIIIIIIIIIIIIIIIIZ?,,,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~~~~~~~~:8NIIIIIIID+                                 
+                                  MM$   :8NN+ .8.                       .DOOZIIIIIIIIIIII7NZIIIIIIIIIIIIIIIIZD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:~~~~~~~~~~~~~~DDIIIIIIIII7O                                 
+                                  D+                                   .MOOOIIIIIIIIIIIIIII8ZIIIIIIIIIIIM7III7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~~~8NIIIIIIIIIIIN:                                 
+                                                                      INOO$IIIIIIIIIIIIIIIIIZM7IIIIIIIIIID$IIIIN,,,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~~~~OMIIIIIIIIIIIINO.                                 
+                                        ~$.                          ?8OOOIIIIIIIIIIIIIIIIIIIIONOIIIIIIIIINNIIIIN?,,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~:MDIIIIIIIIIIIIIN$$ZDZ                               
+                                       8MMMM7.                      7NOOO$IIIIIIIIIIIIIIIIIIIIII8MIIIIIIIII88III7M,,,,,,,,,,,,,,,,,,,,,,,,,,~~~:I8MDIIIIIIIIIIIIIINDIIIID.                              
+                                          7M                       $OOOO7IIIIIIIIIIIIIIIIIIIIIIIIINDIIIIIIII$M$II$$,,,,,,,,,,,,,,,,,,,,,,,,,?DDOIIIIIIIIIIIIIIIIIIIIIIIIN:                              
+                                    ,:?$NMMM7                     MOOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIND$IIIIIIIDMIINI,,,,,,,,,,,,,,,,,,:$8NNZIIIIIIIIIIIIIIIIIIIIIIIIII$NN,                              
+                                    IMMMMDMM~                   .NOOOO$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIOD?ZD$$8DNO$8MZM.,,,,,,,,,,,,,~OM8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINZII$O.                            
+                                        DMM.                    MOOOO7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOD~OOIIIIIIIONON7,,,,,,,,+NMN8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIODIIIIIM.                            
+                                      .MMMD,                  ,MOOOO7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOD=8ZIIIIIIIIIIIMN,,,=MO7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZNDIIIIIIIM                             
+                                     ,MMMMMM                  MOOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZ8+8OIIIIIIIIIIIIM,$DZ$OZ7IIIIIIIIIIIIIIIIIIIIII7Z8DNNNNNDDZIIIIIIIIIIDZ                            
+                                    NMM+  MM                .MOOOO$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$O$ZOIIIIIIIIIIIIOZIIIIIIIOD88Z7IIIIII$ONN8DM8O$7IIIIIIIIIIIIIIIIIIIIIIIM~                          
+                                   DMM.   MM.  .:+          N8OOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$O7Z$IIIIIIIIIIIIN7IIIIIIIIIII7OD8ODNND$OD. 8IIIIIIIIIIIIIIIIIIIIIIIIIIIIO7                         
+                                  NMM.    MMMMMMM~         8OOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$8+OIIIIIIIIIIII7MIIIIIIIIIIIIIIIIIIIIIIO8. NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIID=                       
+                                                          N8OOOZIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$8~DIIIIIIIIIIIIDNIIIIIIIIIIIIIIIIIIIIIIOO, NIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM:                     
+                                                         OOOOO$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$87OIIIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIOO= NIIIIIIIIIIIIIIIIIIOIIIIIIIIIIIIII7N,                   
+                                                        D8OOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$8?Z7IIIIIIIIIIOZIIIIIIIIIIIIIIIIIIIIIIIZOZ MIIIIIIIIIIIIIII7OO8$IIIIIIIIIIIIIII7N                  
+                                                       +8OOO$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$O7Z7IIIIIIIIIZMIIIIIIIIIIIIIIIIIIIIIIIIZON O7IIIIIIIIIIIIIIOONIIIIIIIIIIIIIIIIIIIN?                
+                                                      ODOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$OD~OIIIIIIIIIM7IIIIIIIIIIIIIIIIIIIIIIIIZOM.$$IIIIIIIIIIIIIOODIIIIIIINIIIIIIIIIIIIIIDO              
+                                                     ?OOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$ON~8IIIIIIII8$IIIIIIIIIIIIIIIIIIIIIIIII7ON~$8IIIIIIIIIIIIOOONIIIIII7NIIIIIIIIIIIIIIIIN?            
+                                                    ,NOOOO7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$ON.8IIIIIII7MIIIIIIIIIIIIIIIIIIIIIIIIII7O8O:DIIIIIIIIIII7OO8NIIIIII87IIIIIIIIIIIIIIII7N            
+            .~ON=.            ,MMMMMMMMMMMMMMMMM    MOOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOD+OIIIIIIIM$IIIIIIIIIIIIIIIIIIIIIIIIIIIOOM,MIIIIIIIIIIIOOODZIIIII7$IIIIIIIIIIIIIIIIIIM            
+         .MZ~::::~Z8~.         :=??7$$MM===++~,.  ,MOOOOOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDNO8IIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIZON MIIIIIIIIIIIOOOD$IIII7NIIIIIIIIIIIIIIIIII78            
+        ~N:::::::::::+O8.             MM          M8OOOOD8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII78~DNNIIIIIZ7IIIIIIIIIIIIIIIIIIIIIIIIIIII7DN=+MIIIIIIIII$OOOD$III78IIIIIIIIIIIIIIIIIII$O            
+        M~::::::::::::::+$$..        .MM         ZOOOOOONIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$D   N$III7MIIIIIIIIIIIIIIIIIIIIIIIIIIIII7D$:$~DIIIIIIII7OOOD7IIODIIIIIIIIIIIIIIIIIIII$D            
+      .=+::::::::::::::::::ID, ?MMMMMMMMMMMMMMM. $OOOOODIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$DM=+NIIIINOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOM  .MIIIIIIIIIZOOD7IZ$IIIIIIIIIIIIIIIIIIIIIIIM:          
+      IN:::::::::::::::::::::.  ...,,NMMZ...... ?OOOOOD8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7N.MDIIIIDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOD,:.NIIIIIIIIIIOO8ONZIIIIIIIIIIIIIIIIIIIIIIIIIZ,         
+      N::::::::::::::::::::::::,,:  NMMDMM   .I$OOOOOOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINDD$IIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIO8O.MIIIIIIIIIII$8N7IIIIIIIIIIIIIIIIIIIIIIIIIIIN=        
+     ,Z::::::::::::::::::::::::::. ,MM. MM?  $8OOOOOONOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$MIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOM+NIIIIIIIIIIIIOM7IIIIIIIIIIIIIIIIIIIIIIIIIIIIN        
+     8~:::::::::::::::::::::::::  DMM?  .MMM. .7OOOOMDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIID.      
+    =N:::::::::::::::::::::::,  :MMM  ,:  $MMM.  .ZDOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZZIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7N      
+    M~:::::::::::::::::::::,  7MMM?  ::::.  DMMM8, ?IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7MIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIO.     
+   I?::::::::::::::::::::::. .$M+  .:::,. ..  $$  .IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZNIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8     
+ .?M~::::::::::::::::::::::::,   .::::  ~Z .:,  ?MIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZ$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM.    
+  M=::::::::::::::::::::::::,...,,,,,. IMM  ....,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8+    
+ +7::::::::::::::::::::::::: .,..   ..,ZMM~~=+?I  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII78IIIIIIIIIIIIIIIIIIIIIIIIIIIIII$D.   
+ N::::::::::::::::::::::::::  MMMMMMMMMMMMMMMMMM? ,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM    
+N7::::::::::::::::::::::::::. ~?=~,,,,,IMM...     .IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZ.   
+O:::::::::::::::::::::::::::::........ 7MM.8MM  +?IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7:   
+:::::::::::::::::::::::::::::::::::::. $MMMM8  =IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZ7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7ODIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7   
+::::::::::::::::::::::7NNMNNDO~:::,.  OMMM8. .IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM.  
+::::::::::::::::::::N7        ~.   =MMMMMM  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOONIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7M  
+:::::::::::::::::::8.         .+MMMMMZ ,MM  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7OODIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIO 
+::::::::::::::::::D=           =MM=.   ,MM  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7OO8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$D
+::::::::::::::::::D                    +MM  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$DIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIZOOO$IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII8
+:::::::::::::::::~=                  $MMMM  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIID8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOODIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+:::::::::::::::::~=                   .?   =IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIID7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOONOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+::::::::::::::::::+             N$   ~..=IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII$OIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOOMOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+::::::::::::::::::8             MM           IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOONOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+::::::::::::::::::D~            MMMMNNNNNMM8 ,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOOD8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+::::::::::::::::::+O            ,:=++==~~==, +IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7DIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOOOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+:::::::::::::::::::N             ...........?IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOOOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+:::::::::::::::::::~M?+~,.       D8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIID8IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIOOOOOMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                                                                                                                                                                                         GlassGiant.com
