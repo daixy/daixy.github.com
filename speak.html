@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>だいくしー大喜利</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+<body>
+<button id="save">画像として保存する</button>
+<canvas id="canvas" width="1600" height="1200"><canvas>
+<script>
+(function(){
+    // Canvas
+    var canvas = document.querySelector('#canvas');
+    var context = canvas.getContext('2d');
+    // daiksy image
+    var image = new Image();
+    image.src = "img/daixy_odai.png";
+    $(image).load(function(){
+     context.drawImage(image, 0, 0); 
+    });
+    // flag
+    var isDrawing = false;
+    // Brush
+    context.lineWidth = 3;
+    context.lineCap = 'round';
+    context.fillStyle = 'black';
+    context.strokeStyle = 'black';
+    canvas.addEventListener('mousemove', function(event){
+        event.preventDefault();
+        //var out = document.getElementById('out');
+        //var p = getMousePosition(event);
+        //out.value = "x:" + p.x + " y:" + p.y;
+    });
+    canvas.addEventListener('mousedown', function(event){
+        event.preventDefault();
+        isDrawing = true;
+        var p = getMousePosition(event);
+        context.beginPath();
+        context.arc(p.x, p.y, context.lineWidth / 2, 0, Math.PI * 2, true);
+        context.fill();
+        context.beginPath();
+        context.moveTo(p.x, p.y);
+    });
+    canvas.addEventListener('mousemove', function(event){
+        event.preventDefault();
+        if(isDrawing){
+            draw(event, context);
+        }
+    });
+    canvas.addEventListener('mouseup', function(event){
+        event.preventDefault();
+        if(isDrawing){
+            draw(event, context);
+            isDrawing = false;
+        }
+    });
+    canvas.addEventListener('mouseout', function(event){
+        event.preventDefault();
+        if(isDrawing){
+            draw(event, context); 
+            isDrawing = false;
+        }
+    });
+       function getMousePosition(event){
+        var rect = event.target.getBoundingClientRect();
+        return {
+            x: event.clientX - rect.left,
+            y: event.clientY - rect.top
+        };
+    }
+    function draw(event, context){
+        var p = getMousePosition(event);
+        context.lineTo(p.x, p.y);
+        context.stroke();
+        context.beginPath();
+        context.moveTo(p.x, p.y);
+    }
+    // Save
+    var btnSave = document.querySelector('#save');
+    btnSave.addEventListener('click', function(){
+        var dataUrl = canvas.toDataURL();
+        window.open(dataUrl, "new image");
+    });
+})();
+</script>
+</body>
+</html>
