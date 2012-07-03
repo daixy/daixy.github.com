@@ -26,14 +26,16 @@
     context.lineCap = 'round';
     context.fillStyle = 'black';
     context.strokeStyle = 'black';
+/*
     canvas.addEventListener('mousemove', function(event){
         event.preventDefault();
-        //var out = document.getElementById('out');
-        //var p = getMousePosition(event);
-        //out.value = "x:" + p.x + " y:" + p.y;
+        var out = document.getElementById('out');
+        var p = getMousePosition(event);
+        out.value = "x:" + p.x + " y:" + p.y;
     });
-    canvas.addEventListener('mousedown', function(event){
-        event.preventDefault();
+*/
+    function drawStart(event) {
+         event.preventDefault();
         isDrawing = true;
         var p = getMousePosition(event);
         context.beginPath();
@@ -41,28 +43,31 @@
         context.fill();
         context.beginPath();
         context.moveTo(p.x, p.y);
-    });
-    canvas.addEventListener('mousemove', function(event){
-        event.preventDefault();
+    }
+    canvas.addEventListener('mousedown',  drawStart, false);
+    canvas.addEventListener('touchstart', drawStart, false);
+
+    function drawing(event) {
+         event.preventDefault();
         if(isDrawing){
             draw(event, context);
         }
-    });
-    canvas.addEventListener('mouseup', function(event){
+    }
+    canvas.addEventListener('mousemove', drawing, false);
+    canvas.addEventListener('touchmove', drawing, false);
+
+    function drawEnd(event) {
         event.preventDefault();
         if(isDrawing){
             draw(event, context);
             isDrawing = false;
         }
-    });
-    canvas.addEventListener('mouseout', function(event){
-        event.preventDefault();
-        if(isDrawing){
-            draw(event, context); 
-            isDrawing = false;
-        }
-    });
-       function getMousePosition(event){
+    }
+    canvas.addEventListener('mouseup',  drawEnd, false);
+    canvas.addEventListener('mouseout', drawEnd, false);
+    canvas.addEventListener('touchend', drawEnd, false);
+
+    function getMousePosition(event){
         var rect = event.target.getBoundingClientRect();
         return {
             x: event.clientX - rect.left,
